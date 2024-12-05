@@ -1,0 +1,16 @@
+hook.js:608 Error while processing route: seat-level-auth-redirect Cannot read properties of null (reading 'postMessage') TypeError: Cannot read properties of null (reading 'postMessage')
+    at i.model (https://static.licdn.com/aero-v1/sc/h/ajgn7iat43b3xwyj1qjghr7jj:11045:61)
+    at i.deserialize (https://static.licdn.com/aero-v1/sc/h/3rtps1rmusa2ut0e84zwx37hl:1872:119)
+    at O.getModel (https://static.licdn.com/aero-v1/sc/h/3rtps1rmusa2ut0e84zwx37hl:4204:26)
+    at https://static.licdn.com/aero-v1/sc/h/3rtps1rmusa2ut0e84zwx37hl:4186:621
+    at w (https://static.licdn.com/aero-v1/sc/h/3rtps1rmusa2ut0e84zwx37hl:4344:12)
+    at y (https://static.licdn.com/aero-v1/sc/h/3rtps1rmusa2ut0e84zwx37hl:4342:128)
+    at invokeWithOnError (https://static.licdn.com/aero-v1/sc/h/3rtps1rmusa2ut0e84zwx37hl:3905:206)
+    at p.flush (https://static.licdn.com/aero-v1/sc/h/3rtps1rmusa2ut0e84zwx37hl:3897:74)
+    at h.flush (https://static.licdn.com/aero-v1/sc/h/3rtps1rmusa2ut0e84zwx37hl:3910:207)
+    at F._end (https://static.licdn.com/aero-v1/sc/h/3rtps1rmusa2ut0e84zwx37hl:3967:9)
+overrideMethod @ hook.js:608
+/platform-telemetry/contentsecurity:1 
+        
+        
+       Failed to load resource: the server responded with a status of 404 ()
